@@ -66,7 +66,7 @@ export const profileConfig: ProfileConfig = {
 			name: "CSDN",
 			icon: "fa6-regular:user",
 			url: "https://blog.csdn.net/2302_76581139?type=blog",
-		}
+		},
 	],
 };
 
