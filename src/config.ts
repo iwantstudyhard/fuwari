@@ -53,14 +53,19 @@ export const navBarConfig: NavBarConfig = {
 };
 
 export const profileConfig: ProfileConfig = {
-	avatar: "assets/images/demo-avatar.png", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
-	name: "Lorem Ipsum",
-	bio: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+	avatar: "assets/images/headicon.jpg", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+	name: "YYYFFF",
+	bio: "路虽远，行则将至",
 	links: [
 		{
 			name: "GitHub",
 			icon: "fa6-brands:github",
 			url: "https://github.com/iwantstudyhard",
+		},
+		{
+			name: "CSDN",
+			icon: "fa6-regular:user",
+			url: "https://blog.csdn.net/2302_76581139?type=blog",
 		}
 	],
 };
