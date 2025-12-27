@@ -1,6 +1,6 @@
 ---
 title: vim编辑学习整理
-published: 2025-4-27
+published: 2025-04-27
 description: ''
 image: ''
 tags: [学习总结]
